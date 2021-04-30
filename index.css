@@ -46,3 +46,28 @@ svg {
 .img3 {
   padding-left: 50px;
 }
+.ask {
+  font-weight: bolder;
+}
+.card {
+  width: 15rem;
+  border: none;
+  padding-top: 50px;
+  padding-left: 40px;
+}
+btn {
+  background-color: rgb(41, 226, 165);
+}
+.container-second {
+  background-color: greenyellow;
+  height: 180px;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+.invs-img {
+  padding-left: 90px;
+  padding-right: 50px;
+}
+.social {
+  padding-left: 400px;
+}
