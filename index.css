@@ -71,3 +71,14 @@ btn {
 .social {
   padding-left: 400px;
 }
+.cpy {
+  padding-left: 50px;
+}
+.lst {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.lst-itm {
+  padding-top: 15px;
+}
