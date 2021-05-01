@@ -82,3 +82,24 @@ btn {
 .lst-itm {
   padding-top: 15px;
 }
+.nav-link1 {
+  padding-left: 20px;
+}
+.abtfd {
+  font-weight: 300;
+}
+.abth {
+  font-weight: bolder;
+  font-size: 40px;
+}
+#sch {
+  background-image: url(assets/search.svg);
+  background-repeat: no-repeat;
+  text-indent: 20px;
+}
+.navbar-nav {
+  padding-left: 50px;
+}
+.nav-item {
+  padding-left: 50px;
+}
